@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: vn.edu.stu.thucannhanh.ThucAnNhanhApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.607 s - in vn.edu.stu.thucannhanh.ThucAnNhanhApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.47 s - in vn.edu.stu.thucannhanh.ThucAnNhanhApplicationTests
