@@ -50,6 +50,7 @@ public class FoodController {
             newFood.setIngredient(food.getIngredient());
             newFood.setPrice(food.getPrice());
             newFood.setStatus(1);
+            newFood.setFoodType(food.getFoodType());
             Food save = gFoodRepository.save(newFood);
             return new ResponseEntity<>(save, HttpStatus.CREATED);
         } catch (Exception e) {
